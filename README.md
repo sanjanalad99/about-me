@@ -3,14 +3,20 @@
 Hey there! I'm Sanjana Lad, a recent Master of Science in Computer Engineering graduate from California State University Fullerton. My journey through coursework in Cyber Security, Real Time Audio and Language Processing, and Advanced Computer Networking has equipped me with a diverse tech toolkit.
 
 ## 🚀 Tech Alchemist
-Fluent in languages like Python, C++, and Java, I have a knack for turning complex problems into elegant code solutions. From working with SQL and HTML to diving into the realms of React.js and Angular, I'm ready to bring my coding wizardry to your team. Practicing coding everyday!
+Fluent in languages like Python, C++, and Java, I have a knack for turning complex problems into elegant code solutions. From working with SQL and HTML to diving into the realms of React.js and Angular, I'm ready to bring my coding wizardry to your team.
 
 ## 📊 Data Explorer
 With a passion for data, I've delved into projects like Breast Cancer Prediction using neural networks and crafted a Face Detection App deployed on Heroku. From preprocessing datasets to implementing cloud-based solutions, I thrive on turning data into insights.
-Currently learning Tableau and PowerBI
 
 ## 💼 Web Solutions Maverick
-My stint as a Web Solutions Specialist at Newfold Digital in Mumbai polished my problem-solving skills. From resolving bugs to optimizing website performance, I became adept at DNS configuration, CDNs, and ensuring top-notch user experiences. Learning Docker, Kubernetes and cloud practices:)
+My stint as a Web Solutions Specialist at Newfold Digital in Mumbai polished my problem-solving skills. From resolving bugs to optimizing website performance, I became adept at DNS configuration, CDNs, and ensuring top-notch user experiences.
+
+## 🎯 Currently Learning
+- Flutter
+-Tableau and PowerBI
+-Android Studio
+-Docker
+-Kubernets
 
 ## 🌟 Why Pick Me?
 - **Versatility:** From coding to data analysis, I bring a diverse skill set.
