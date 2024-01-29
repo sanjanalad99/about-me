@@ -16,6 +16,8 @@ My stint as a Web Solutions Specialist at Newfold Digital in Mumbai polished my 
 - **Versatility:** From coding to data analysis, I bring a diverse skill set.
 - **Problem Solver:** Challenges are opportunities for creative solutions.
 - **Tech Enthusiast:** I live and breathe technology, always eager to learn and contribute.
+- **Learner:** Always learning something, trying to keep up with all the technologies
+
 
 ## 🚀 Let's Connect!
 I'm on the lookout for my next tech adventure. If you're seeking a dynamic team player with a passion for innovation, let's chat! Drop me an email at ladsanjana99@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/sanjanalad1999/).
