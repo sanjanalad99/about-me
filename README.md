@@ -16,7 +16,7 @@ My stint as a Web Solutions Specialist at Newfold Digital in Mumbai polished my 
 - Tableau and PowerBI
 - Android Studio
 - Docker
-- Kubernets
+- Kubernetes
 
 ## 🌟 Why Pick Me?
 - **Versatility:** From coding to data analysis, I bring a diverse skill set.
