@@ -13,10 +13,10 @@ My stint as a Web Solutions Specialist at Newfold Digital in Mumbai polished my 
 
 ## 🎯 Currently Learning
 - Flutter
--Tableau and PowerBI
--Android Studio
--Docker
--Kubernets
+- Tableau and PowerBI
+- Android Studio
+- Docker
+- Kubernets
 
 ## 🌟 Why Pick Me?
 - **Versatility:** From coding to data analysis, I bring a diverse skill set.
