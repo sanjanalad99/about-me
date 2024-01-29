@@ -1,4 +1,4 @@
-# Sanjana Lad's Tech Adventure! 👩‍💻🚀
+# Sanjana's Tech Adventure! 👩‍💻🚀
 
 Hey there! I'm Sanjana Lad, a recent Master of Science in Computer Engineering graduate from California State University Fullerton. My journey through coursework in Cyber Security, Real Time Audio and Language Processing, and Advanced Computer Networking has equipped me with a diverse tech toolkit.
 
