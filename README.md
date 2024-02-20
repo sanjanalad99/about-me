@@ -1,32 +1,39 @@
-# Sanjana's Tech Adventure! 👩‍💻🚀
+---
 
-Hey there! I'm Sanjana Lad, a recent Master of Science in Computer Engineering graduate from California State University Fullerton. My journey through coursework in Cyber Security, Real Time Audio and Language Processing, and Advanced Computer Networking has equipped me with a diverse tech toolkit.
+# Sanjana's Data Science Journey! 👩‍💻🔍
 
-## 🚀 Tech Alchemist
-Fluent in languages like Python, C++, and Java, I have a knack for turning complex problems into elegant code solutions. From working with SQL and HTML to diving into the realms of React.js and Angular, I'm ready to bring my coding wizardry to your team.
+Hello! I'm Sanjana Lad, a Master of Science in Computer Engineering graduate from California State University, Fullerton. My academic journey, enriched with courses in Cyber Security, Real-Time Audio and Language Processing, and Advanced Computer Networking, has equipped me with a versatile tech toolkit. Transitioning into data science, I've leveraged my coding skills and analytical mindset to dive deep into the world of data.
 
-## 📊 Data Explorer
-With a passion for data, I've delved into projects like Breast Cancer Prediction using neural networks and crafted a Face Detection App deployed on Heroku. From preprocessing datasets to implementing cloud-based solutions, I thrive on turning data into insights.
+## 📊 Data Scientist in the Making
 
-## 💼 Web Solutions Maverick
-My stint as a Web Solutions Specialist at Newfold Digital in Mumbai polished my problem-solving skills. From resolving bugs to optimizing website performance, I became adept at DNS configuration, CDNs, and ensuring top-notch user experiences.
+- **Programming Languages**: Proficient in Python, C++, and Java, with a strong foundation in writing clean, efficient code for data analysis and machine learning projects.
+  
+- **Machine Learning Projects**:
+  - **Breast Cancer Prediction**: Developed a neural network model to predict breast cancer from biopsy data, honing my skills in data preprocessing, model training, and evaluation.
+  - **Heart Disease Prediction**: Contributed to a team project that achieved 88.7% accuracy in predicting heart disease using Random Forest, Decision Tree, and a Hybrid Model. This project, detailed in a PowerPoint presentation, showcased my ability to work with complex datasets and implement advanced machine learning techniques.
+  - **Face Detection App**: Created a face detection application deployed on Heroku, utilizing OpenCV and Haarcascade Classifiers. This project demonstrated my capability to apply machine learning models in practical, user-facing applications.
 
-## 🎯 Currently Learning
-- Flutter
-- Tableau and PowerBI
-- Android Studio
-- Docker
-- Kubernetes
-- Webflow
+- **Cloud and Deployment**: Experienced in deploying applications to cloud platforms like Heroku, emphasizing my skills in making machine learning models accessible and scalable.
 
-## 🌟 Why Pick Me?
-- **Versatility:** From coding to data analysis, I bring a diverse skill set.
-- **Problem Solver:** Challenges are opportunities for creative solutions.
-- **Tech Enthusiast:** I live and breathe technology, always eager to learn and contribute.
-- **Learner:** Always learning something, trying to keep up with all the technologies
+## 🌱 Continuous Learner
 
+Currently expanding my knowledge in:
+- Data Visualization tools like Tableau and PowerBI
+- Mobile development with Flutter and Android Studio
+- Containerization with Docker and Kubernetes
+- Web development with Webflow
+
+## 🌟 Why Sanjana?
+
+- **Versatile Skill Set**: From software development to advanced data analysis, I bring a broad range of technical skills to the table.
+- **Creative Problem Solver**: I view challenges as opportunities to apply my analytical skills and creativity.
+- **Eager Learner**: Passionate about technology and data science, I'm always exploring new tools and methodologies to enhance my skill set.
 
 ## 🚀 Let's Connect!
-I'm on the lookout for my next tech adventure. If you're seeking a dynamic team player with a passion for innovation, let's chat! Drop me an email at ladsanjana99@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/sanjanalad1999/).
 
-Ready to code the future together! 🌐💻
+I'm on the lookout for opportunities to grow as a data scientist. If you're seeking a dynamic, enthusiastic team player with a passion for data and innovation, let's chat! Reach out to me at ladsanjana99@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/sanjanalad1999/).
+
+Together, let's unlock the power of data! 🌐💡
+
+---
+
