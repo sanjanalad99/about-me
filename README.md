@@ -1,6 +1,6 @@
 ---
 
-# Sanjana's Data Science & Software Engineering Journey! 👩‍💻🚀
+# My Data Science & Software Engineering Journey! 👩‍💻🚀
 
 Hello! I'm Sanjana Lad, a recent Master of Science in Computer Engineering graduate from California State University Fullerton. My academic journey has been a blend of rigorous coursework in Cyber Security, Real-Time Audio and Language Processing, and Advanced Computer Networking, providing me with a rich foundation in both software engineering and data science.
 
@@ -25,7 +25,7 @@ I'm currently broadening my skill set in areas that complement both data science
 - Docker and Kubernetes for container orchestration
 - Webflow for no-code web development
 
-## 🌟 Why Sanjana?
+## 🌟 Why Me?
 - **Data-Driven**: I have a passion for data and a proven track record of transforming it into actionable insights.
 - **Versatile**: My diverse skill set spans coding, data analysis, and software development.
 - **Innovative Problem Solver**: I excel at devising creative solutions to complex challenges.
